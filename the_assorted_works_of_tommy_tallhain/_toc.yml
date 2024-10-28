@@ -6,17 +6,21 @@ root: intro
 parts:
   - caption: Quotes
     chapters:
-    - file: markdown
-    - file: markdown
+    - file: Quotes
 
   - caption: Poems
     chapters:
-    - file: markdown
-    - file: markdown
+    - file: PoemPebbles
+    - file: PoemTrogir
+    - file: PoemTheCarousel
+    - file: PoemInFlight
+    - file: PoemWhatWasIt
+    - file: PoemYou
+    - file: PoemYourRoom
 
   - caption: Books
     chapters:
-    - file: markdown
-    - file: markdown
-      sections:
-      - file: markdown
+    - file: BookTheBoyWithTheBrokenVote
+    # - file: markdown
+    #   sections:
+    #   - file: markdown
