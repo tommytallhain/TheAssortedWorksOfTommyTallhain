@@ -44,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "_build/html"
+          path: "the_assorted_works_of_tommy_tallhain/_build/html"
 
       # Deploy the book's HTML to GitHub Pages
       - name: Deploy to GitHub Pages
