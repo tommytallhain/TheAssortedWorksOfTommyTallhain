@@ -2,6 +2,78 @@
 
 
 
+## An unsolicited picture unsolicited an
+
+````{card}
+And in the summertime she frze
+<br>
+Across the lake that iced and rose
+<br>
+The midnight sun of phantom hue
+<br>
+Seldome shone metal lantern too
+<br>
+because her thoughts began to race
+<br>
+around that empty vacant place
+<br>
+that now exists ere since he left
+<br>
+And in a room whence once he cleft
+<br>
+Unto her warmth and body heat
+<br>
+wrapped under over inside weeps
+<br>
+his heart for her now that shes gone
+<br>
+A snow machine parked photo song
+<br>
+
+<br>
+<br>
+<br>
+
+And in the summertime he frze
+<br>
+Across the lake that iced and rose
+<br>
+The midnight sun of phantom hue
+<br>
+Seldome shone metal lantern too
+<br>
+because his thoughts began to race
+<br>
+around that empty vacant place
+<br>
+that now exists ere since she left
+<br>
+And in a room whence once she cleft
+<br>
+Unto his warmth and body heat
+<br>
+wrapped under over inside weeps
+<br>
+her heart for him now that hes gone
+<br>
+A snow machine parked photo song
+<br>
++++
+by Tommy Tallhain (October 2024)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## You
 
 ````{card} 
@@ -73,27 +145,47 @@ by Tommy Tallhain (October 2024)
 ## Your Room
 
 ````{card}
-```{warning}
-This poem is not yet complete
-```
+A pink carpet
 <br>
+Fluffy as a cnady floss bear rug
 <br>
+Your bed - on the left as you enter
 <br>
+Straight ahead, a rack of closes, accumulated fabrics of you, your style
 <br>
+Procured throughout life, wear'ed now towards the future
 <br>
+Not typical of someone of your sensibilities, or interests
 <br>
+but a perfect description of your personality all the same
 <br>
+Is it but a front a respite from a life that would be less colourful without
 <br>
+Each time I think I am distracted
 <br>
+the way you stand shift your legs inwards, while moving books 
 <br>
+kneeling to collect them from the  places they inhabit strewn about the floor
 <br>
+secret positions, all known, none lost
 <br>
+four hundred pages devoured in two days a feat I can scarce imagine
 <br>
+or accomplish
 <br>
+A mirror completes the four walled space
 <br>
+reflecting back venus beauty
+<br>
+whispering of scenes only we know
+<br>
+together tangled, not a word will it speak to anyone else
+<br>
+each fake leaf plantling wrapped and hung
+<br>
+for time to pass and hearts more stung
 <br>
 
-<br>
 
 +++
 by Tommy Tallhain (October 2024)
