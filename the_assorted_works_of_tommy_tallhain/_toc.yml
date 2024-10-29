@@ -6,22 +6,17 @@ root: intro
 parts:
   - caption: Quotes
     chapters:
-    - file: QuotesAboutLove
-    - file: QuotesAboutPerspective 
+    - file: Quotes2024
 
   - caption: Poems
     chapters:
-    - file: PoemPebbles
-    - file: PoemTrogir
-    - file: PoemTheCarousel
-    - file: PoemInFlight
-    - file: PoemWhatWasIt
-    - file: PoemYou
-    - file: PoemYourRoom
+    - file: Poems2024
+
+
+  - caption: Short Stories
+    chapters:
+    - file: ShortStoryTheMouseAndCheese
 
   - caption: Books
     chapters:
     - file: BookTheBoyWithTheBrokenVote
-    # - file: markdown
-    #   sections:
-    #   - file: markdown
