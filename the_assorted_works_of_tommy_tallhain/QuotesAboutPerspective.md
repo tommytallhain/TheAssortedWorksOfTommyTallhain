@@ -1,4 +1,4 @@
-# Quotes About Love
+# Quotes About Perspective
 
 
 ```{epigraph}
