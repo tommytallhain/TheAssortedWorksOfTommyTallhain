@@ -2,7 +2,7 @@
 
 
 ```{epigraph}
-An airport is a child's plaything
+An airport is a child's plaything.
 
 -- Tommy Tallhain
 ```
