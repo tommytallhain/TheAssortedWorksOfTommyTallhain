@@ -121,6 +121,10 @@ by Tommy Tallhain (September 2024)
 
 
 ## In Flight
+```{margin} Aside
+I wrote this while on a ferry in croatia. I was up on deck while the weather was slightly drizzling (I enjoy being in the rain and I much prefered it over the crowded cabins below deck where tourists clamoured and made me long for solitude). It was there I noticed a seagull flying alongside the ship. Its agility and aerial mastery so mystifying that I soon became distracted in writing this 
+```
+
 ````{card}
 Dancing in the salty air
 <br>
@@ -185,9 +189,7 @@ Their nets turn out the fish they sow
 +++
 by Tommy Tallhain (September 2024)
 ````
-```{margin} Aside
-I wrote this while on a ferry in croatia. I was up on deck while the weather was slightly drizzling (I enjoy being in the rain and I much prefered it over the crowded cabins below deck where tourists clamoured and made me long for solitude). It was there I noticed a seagull flying alongside the ship. Its agility and aerial mastery so mystifying that I soon became distracted in writing this 
-```
+
 
 
 
@@ -301,6 +303,10 @@ by Tommy Tallhain (September 2024)
 
 
 ## After Endorphins
+```{margin} Aside
+The first part of this poem was composed in my head quite quickly after a swim in a local tidal pool one thursday evening in January in Cape Town. I couldn't quite come up with an ending to my liking and so left it and revisited it after a few months probably around July of the same year, where by I wrote the second half/latter part and cristened the poem complete
+```
+
 ````{card}
 In night time dust on crevice wing
 <br>
@@ -331,6 +337,3 @@ I'll come back again one day
 +++
 by Tommy Tallhain (January 2024)
 ````
-```{margin} Aside
-The first part of this poem was composed in my head quite quickly after a swim in a local tidal pool one thursday evening in January in Cape Town. I couldn't quite come up with an ending to my liking and so left it and revisited it after a few months probably around July of the same year, where by I wrote the second half/latter part and cristened the poem complete
-```
