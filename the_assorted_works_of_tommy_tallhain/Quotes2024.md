@@ -1,4 +1,4 @@
-# Quotes 2024
+# 2024
 
 ##  Quotes About Love
 
