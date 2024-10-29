@@ -7,12 +7,11 @@
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
 
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -21,15 +20,15 @@ This poem is not yet complete
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
 The anatomy of the land
 <br>
 Divisioning via the coast line
 <br>
 
+
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -38,11 +37,12 @@ Divisioning via the coast line
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
+
+
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -52,12 +52,11 @@ This poem is not yet complete
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
 
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -68,12 +67,11 @@ This poem is not yet complete
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
 
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -82,13 +80,12 @@ This poem is not yet complete
 ```{warning}
 This poem is not yet complete
 ```
-(September 2024)
-^^^
+
 
 <br>
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
 
 
@@ -98,10 +95,9 @@ This poem is not yet complete
 This poem is not yet complete
 ```
 
-(September 2024)
-^^^
+
 
 
 +++
-- Tommy Tallhain
+by Tommy Tallhain (September 2024)
 ````
