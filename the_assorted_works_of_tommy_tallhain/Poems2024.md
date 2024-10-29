@@ -3,28 +3,67 @@
 
 
 ## You
+
 ````{card} 
-
-```{warning}
-This poem is not yet complete
-```
+You at 23
 <br>
+Your skin
 <br>
+Wraps around the corners, and is ushered round my mind
 <br>
+filling my thoughts the next day
 <br>
+the scent of you on my tshirt
 <br>
+lingers the next morning
 <br>
+and makes me smile more than I should
 <br>
+Your combat boots
 <br>
+that you sent me in a picture
 <br>
+a symbold of your brash outlandish wit
 <br>
+everything is traced
 <br>
+line by line by line
 <br>
+by my eyes
 <br>
+captured, painted solidifed in a gallery only I can wlak through
 <br>
+that exists in memories of little places
 <br>
+An ice cream store
 <br>
-
+A dead end road
+<br>
+A church along the street
+<br>
+I like the way you talk
+<br>
+I like the way you walk
+<br>
+I like the way you think
+<br>
+the way you dress
+<br>
+Like the way you speak
+<br>
+I like
+<br>
+I like the way you touch
+<br>
+the way you feel
+<br>
+I like 
+<br>
+I liek the way you
+<br>
+I like you
+<br>
+just you
 
 +++
 by Tommy Tallhain (October 2024)
@@ -32,6 +71,7 @@ by Tommy Tallhain (October 2024)
 
 
 ## Your Room
+
 ````{card}
 ```{warning}
 This poem is not yet complete
@@ -70,16 +110,54 @@ by Tommy Tallhain (October 2024)
 
 
 ## Trogir
+
 ````{card}
-```{warning}
-This poem is not yet complete
-```
-
-
+Its a long road from here to trogir
+<br>
+Thought the bus driver says "its quite very near"
+<br>
+The swishing swaying salt soaked sea
+<br>
+can go so far to carry me
+<br>
+In that last stretch I now must walk
+<br>
+Across the bridge across the stalk
+<br>
+That ther extends towards the edge
+<br>
+a castle tower island ledge
+<br>
+And as I sit within these walls 
+<br>
+The cathedral bells begins to toll
+<br>
+the church goers hustle round me say
+<br>
+A wedding we do sing today
+<br>
+A wedding we do sing today
+<br>
 
 +++
 by Tommy Tallhain (September 2024)
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Flying Over Switzerland On A Monday Afternoon
@@ -149,10 +227,27 @@ in this light
 would I have written this
 
 
-
 +++
 by Tommy Tallhain (September 2024)
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## The Carousel
@@ -178,12 +273,21 @@ This poem is not yet complete
 <br>
 <br>
 
-
-
-
 +++
 by Tommy Tallhain (September 2024)
 ````
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -308,6 +412,21 @@ This poem is not yet complete
 +++
 by Tommy Tallhain (September 2024)
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
