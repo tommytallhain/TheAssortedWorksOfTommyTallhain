@@ -2,6 +2,73 @@
 
 
 
+## You
+````{card} 
+
+```{warning}
+This poem is not yet complete
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
++++
+by Tommy Tallhain (October 2024)
+````
+
+
+## Your Room
+````{card}
+```{warning}
+This poem is not yet complete
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
++++
+by Tommy Tallhain (October 2024)
+````
+
+
+
+
+
+
+
+
+
+
+
 ## Trogir
 ````{card}
 ```{warning}
@@ -196,33 +263,6 @@ by Tommy Tallhain (September 2024)
 
 
 
-## You
-````{card} 
-
-```{warning}
-This poem is not yet complete
-```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-+++
-by Tommy Tallhain (September 2024)
-````
 
 
 
@@ -231,33 +271,6 @@ by Tommy Tallhain (September 2024)
 
 
 
-## Your Room
-````{card}
-```{warning}
-This poem is not yet complete
-```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-
-+++
-by Tommy Tallhain (September 2024)
-````
 
 
 
