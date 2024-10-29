@@ -17,10 +17,6 @@ by Tommy Tallhain (September 2024)
 
 ## Flying Over Switzerland On A Monday Afternoon
 ````{card}
-```{warning}
-This poem is not yet complete
-```
-
 The anatomy of the land.
 <br>
 Divisioning via the coastline.
@@ -98,6 +94,23 @@ by Tommy Tallhain (September 2024)
 This poem is not yet complete
 ```
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
@@ -109,15 +122,75 @@ by Tommy Tallhain (September 2024)
 
 ## In Flight
 ````{card}
-```{warning}
-This poem is not yet complete
-```
-
+Dancing in the salty air
+<br>
+Ebbs and flows like water there
+<br>
+His wings like pulleys deftly bend
+<br>
+Adjustments as he glides again
+<br>
+Left and right he weaves a way
+<br>
+suspened in mid day
+<br>
+<br>
+<br>
+His cowl of white is flecked with grey
+<br>
+To scavenge is his task today
+<br>
+On beached shoreline his leftover lay
+<br>
+Grateful is his way
+<br>
+the sky his home come warmth or cold
+<br>
+the sky his home of gold
+<br>
+<br>
+<br>
+Passing boats whose sails blow
+<br>
+Their nets turn out the fish they sow
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 +++
 by Tommy Tallhain (September 2024)
 ````
+```{margin} Aside
+I wrote this while on a ferry in croatia. I was up on deck while the weather was slightly drizzling (I enjoy being in the rain and I much prefered it over the crowded cabins below deck where tourists clamoured and made me long for solitude). It was there I noticed a seagull flying alongside the ship. Its agility and aerial mastery so mystifying that I soon became distracted in writing this 
+```
+
+
+
 
 
 
@@ -127,7 +200,22 @@ by Tommy Tallhain (September 2024)
 ```{warning}
 This poem is not yet complete
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 +++
@@ -135,12 +223,33 @@ by Tommy Tallhain (September 2024)
 ````
 
 
+
+
+
+
+
+
 ## Your Room
 ````{card}
 ```{warning}
 This poem is not yet complete
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <br>
 
@@ -149,15 +258,79 @@ by Tommy Tallhain (September 2024)
 ````
 
 
+
+
+
+
+
+
+
+
 ## Pebbles
 ````{card}
 ```{warning}
 This poem is not yet complete
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 +++
 by Tommy Tallhain (September 2024)
 ````
+
+
+
+
+
+
+
+## After Endorphins
+````{card}
+In night time dust on crevice wing
+<br>
+I hear the jagged canyon sing
+<br>
+Of jackal tails, Coyote eyes
+<br>
+The hornet bees and firefiles
+<br>
+A star above a misty friend
+<br>
+Until the murky skies append
+<br>
+Upon their dewy midnght sea
+<br>
+A grandeur hung like tapestry
+<br>
+So haste beyond the crypt I go
+<br>
+Haste, past matter, too and fro
+<br>
+I wish for hours more I'd stay
+<br>
+I'll come back again one day
+<br>
+
+
++++
+by Tommy Tallhain (January 2024)
+````
+```{margin} Aside
+The first part of this poem was composed in my head quite quickly after a swim in a local tidal pool one thursday evening in January in Cape Town. I couldn't quite come up with an ending to my liking and so left it and revisited it after a few months probably around July of the same year, where by I wrote the second half/latter part and cristened the poem complete
+```
