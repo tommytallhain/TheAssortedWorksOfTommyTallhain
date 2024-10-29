@@ -2,6 +2,9 @@
 
 ##  Quotes About Love
 
+
+
+
 ```{epigraph}
 Love is voluntarily making yourself vulnerable and giving someone the ability to hurt you, 
 but trusting that they wont't.
@@ -11,6 +14,8 @@ Toxic love is when they do.
 -- Tommy Tallhain
 ```
 
+
+
 ```{epigraph}
 Be not transfixed by shallow beauty.
 For belying that glimmering veneer oft lays a vanity of ugliness.
@@ -18,11 +23,20 @@ For belying that glimmering veneer oft lays a vanity of ugliness.
 -- Tommy Tallhain
 ```
 
+
+
 ```{epigraph}
 Instead search for humility, the virtue of kind souls who belong in a world less corrupt than exists
 
 -- Tommy Tallhain
 ```
+
+
+
+
+
+
+
 
 ## Quotes About Perspective
 

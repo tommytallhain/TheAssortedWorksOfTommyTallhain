@@ -37,14 +37,17 @@ This poem is not yet complete
 
 
 
-## You
-````{card}
+
+````{card} ## You
+Card header 1
+^^^
 ```{warning}
 This poem is not yet complete
 ```
 
 
-
++++
+Card footer 1
 ````
 
 
@@ -54,6 +57,7 @@ This poem is not yet complete
 This poem is not yet complete
 ```
 
+<br>
 
 
 ````
