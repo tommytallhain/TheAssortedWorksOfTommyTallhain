@@ -6,7 +6,8 @@ root: intro
 parts:
   - caption: Quotes
     chapters:
-    - file: Quotes
+    - file: QuotesAboutLove
+    - file: QuotesAboutPerspective 
 
   - caption: Poems
     chapters:
