@@ -1,4 +1,4 @@
-# Th Boy With The Broken Vote
+# The Boy With The Broken Vote
 
 ## Chapter 1 - 
 
