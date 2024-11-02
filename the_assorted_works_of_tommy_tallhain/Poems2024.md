@@ -81,11 +81,13 @@ You at 23
 <br>
 Your skin
 <br>
-Wraps around the corners, and is ushered round my mind
+Wraps around the corners of my mind
+<br>
+and is ushered through the corridors
 <br>
 filling my thoughts the next day
 <br>
-the scent of you on my tshirt
+The scent of you on my tshirt
 <br>
 lingers the next morning
 <br>
@@ -103,7 +105,7 @@ line by line by line
 <br>
 by my eyes
 <br>
-captured, painted solidifed in a gallery only I can walk through
+captured, painted, solidifed in a gallery only I can walk through
 <br>
 that exists in memories of little places
 <br>
