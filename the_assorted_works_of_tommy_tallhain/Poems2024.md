@@ -95,15 +95,15 @@ Your combat boots
 <br>
 that you sent me in a picture
 <br>
-a symbold of your brash outlandish wit
+an outward show of the inner spirit
 <br>
-everything is traced
+all of it is traced
 <br>
 line by line by line
 <br>
 by my eyes
 <br>
-captured, painted solidifed in a gallery only I can wlak through
+captured, painted solidifed in a gallery only I can walk through
 <br>
 that exists in memories of little places
 <br>
@@ -131,7 +131,7 @@ the way you feel
 <br>
 I like 
 <br>
-I liek the way you
+I like the way you
 <br>
 I like you
 <br>
