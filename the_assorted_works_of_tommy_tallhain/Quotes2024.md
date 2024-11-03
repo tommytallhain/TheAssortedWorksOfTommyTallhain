@@ -6,6 +6,16 @@
 
 
 ```{epigraph}
+Your voice fills silences so decidely when it wants to, but never unnecessarily, its probably thing I enjoy most when I'm with you
+
+-- Tommy Tallhain
+```
+
+
+
+
+
+```{epigraph}
 Love is voluntarily making yourself vulnerable and giving someone the ability to hurt you, 
 but trusting that they wont't.
 Mutual love is when they don't.
