@@ -7,10 +7,12 @@ parts:
   - caption: Quotes
     chapters:
     - file: Quotes2024
+    - file: Quotes2014
 
   - caption: Poems
     chapters:
     - file: Poems2024
+    - file: Poems2014
 
 
   - caption: Short Stories
