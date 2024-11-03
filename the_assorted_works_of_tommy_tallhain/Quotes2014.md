@@ -6,7 +6,7 @@
 
 
 ```{epigraph}
-Your voice fills silences so decidely when it wants to, but never unnecessarily, its probably thing I enjoy most when I'm with you
+The world is full of wonderful things that very little see, and if you'd take my hand in yours, you'd see the world with me
 
 -- Tommy Tallhain
 ```
@@ -16,10 +16,7 @@ Your voice fills silences so decidely when it wants to, but never unnecessarily,
 
 
 ```{epigraph}
-Love is voluntarily making yourself vulnerable and giving someone the ability to hurt you, 
-but trusting that they wont't.
-Mutual love is when they don't.
-Toxic love is when they do.
+The only person who thinks they're perfect is on who is trying to hide that they aren't
 
 -- Tommy Tallhain
 ```
@@ -27,8 +24,7 @@ Toxic love is when they do.
 
 
 ```{epigraph}
-Be not transfixed by shallow beauty.
-For belying that glimmering veneer oft lays a vanity of ugliness.
+The more we try and show our apparent intelligence the more we show our genuine stupidity
 
 -- Tommy Tallhain
 ```
@@ -36,7 +32,41 @@ For belying that glimmering veneer oft lays a vanity of ugliness.
 
 
 ```{epigraph}
-Instead search for humility, the virtue of kind souls who belong in a world less corrupt than exists
+the only people who never listen are the stupid and the arrogant, I pity you if you meet someone who is both
+
+
+-- Tommy Tallhain
+```
+
+
+
+
+```{epigraph}
+There is right, wrong, and the rules. A perfect system has the right rules, a broken system the wrong rules. Always follow th right, even if it breaks the rules
+
+
+-- Tommy Tallhain
+```
+
+
+
+```{epigraph}
+A man is to a woman what an oven is to an emu - nothing she can't live without
+
+
+-- Tommy Tallhain
+```
+
+
+```{epigraph}
+She is like a dove, a sign of hope in turbulent waters
+
+-- Tommy Tallhain
+```
+
+
+```{epigraph}
+And it was the nthat the light fell from behind his eyes, for in that moment he knew everything was lost, he was alone
 
 -- Tommy Tallhain
 ```
@@ -50,12 +80,16 @@ Instead search for humility, the virtue of kind souls who belong in a world less
 
 ## Quotes About Perspective
 
-```{margin} Aside
-And by that I mean that children are the only people who have fun at airports. 
-Adults are far too busy trying to look busy - checling gate positions, queriying at information desks with the atttendant, pretending to be enjoying their travelling experience. Only a child sees the airport for what it was intended for - the access portal to a whole world of possiblities
-```
 ```{epigraph}
-An airport is a child's plaything.
+We eun away from things we don't understand, and we destroy that which makes us think we are incompetent
+
+-- Tommy Tallhain
+```
+
+## Quotes About Perspective
+
+```{epigraph}
+A person is to another as scaffolding is to a building, something which can help up rebuild
 
 -- Tommy Tallhain
 ```
