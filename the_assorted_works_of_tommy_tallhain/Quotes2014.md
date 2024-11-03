@@ -1,7 +1,5 @@
 # Quotes 2014
 
-##  Quotes About Love
-
 
 
 
@@ -78,18 +76,14 @@ And it was the nthat the light fell from behind his eyes, for in that moment he 
 
 
 
-## Quotes About Perspective
-
 ```{epigraph}
 We eun away from things we don't understand, and we destroy that which makes us think we are incompetent
 
 -- Tommy Tallhain
 ```
 
-## Quotes About Perspective
-
 ```{epigraph}
-A person is to another as scaffolding is to a building, something which can help up rebuild
+A person is to another as scaffolding is to a building, something whichassists us in rebuilding
 
 -- Tommy Tallhain
 ```
