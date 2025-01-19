@@ -6,6 +6,7 @@ root: intro
 parts:
   - caption: Quotes
     chapters:
+    - file: Quotes2025
     - file: Quotes2024
     - file: Quotes2014
 
