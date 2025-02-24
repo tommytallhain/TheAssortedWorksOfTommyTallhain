@@ -3,7 +3,7 @@
 
 
 ```{epigraph}
-Your voice fills silences so decidely when it wants to, but never unnecessarily, its probably thing I enjoy most when I'm with you
+Your voice fills silences so decidely when it wants to, but never unnecessarily, its probably the thing I enjoy most when I'm with you
 
 -- Tommy Tallhain(2024)
 ```
