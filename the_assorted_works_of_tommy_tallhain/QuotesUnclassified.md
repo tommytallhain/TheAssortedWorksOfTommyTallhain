@@ -2,6 +2,15 @@
 
 
 
+```{epigraph}
+bread, [is] the lifeblood of society
+
+-- Tommy Tallhain (2025)
+```
+
+
+
+
 
 
 
