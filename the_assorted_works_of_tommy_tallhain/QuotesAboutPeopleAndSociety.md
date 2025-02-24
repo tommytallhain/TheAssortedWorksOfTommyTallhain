@@ -28,7 +28,7 @@ In society often it just matters who yells the loudest. And those who yell the l
 
 ```{margin} Aside
 And by that I mean that children are the only people who have fun at airports. 
-Adults are far too busy trying to look busy - checling gate positions, queriying at information desks with the atttendant, pretending to be enjoying their travelling experience. Only a child sees the airport for what it was intended for - the access portal to a whole world of possiblities
+Adults are far too busy trying to look busy - checking gate positions, querying at information desks with the atttendant, pretending to be enjoying their travelling experience. Only a child sees the airport for what it was truly intended - the access portal to a whole world of possiblities
 ```
 ```{epigraph}
 An airport is a child's plaything.
@@ -42,7 +42,7 @@ An airport is a child's plaything.
 
 
 ```{epigraph}
-The only people who never listen are the stupid and the arrogant, I pity you if you're both
+The only people who never listen are the stupid and the arrogant, I pity you if you meet someone who is both
 
 
 -- Tommy Tallhain (2024)
