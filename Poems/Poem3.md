@@ -1,6 +1,6 @@
 ---
 title: A Seen
-date: May 2014
+date: March 2019
 authors: [Tommy Tallhain]
 exports:
   - format: pdf
@@ -14,19 +14,38 @@ exports:
 
 
 ````{card}
-I skipped a stone and watched it go skimming off the glass like lake.
+From world weary eyes
 <br>
-And in my hand I held yours tight the love caught in its wake.
+Come world weary views
 <br>
-It danced on waves and ripples made while running from the shore.
+With thoughts that lay stripped back
 <br>
-Your eyes on mine but still the sign of things and feelings more.
+And somber subdued
 <br>
-But soon it fell through life and tells its echos off the sound.
+Of cascading thoughts
 <br>
-And dropped below to dpths unknown a weight that sunk to ground.
+And the flight paths of dreams
+<br>
+Poetic death, justice
+<br>
+From kings and from queens
+<br>
+Who sit high above
+<br>
+On a window ledge place 
+<br>
+Looking out at the vastness
+<br>
+of vast ever space
+<br>
+Yet end soon the lead will
+<br>
+the visage between,
+<br>
+Its all I have looked for
+<br>
+But its not what they,ve seen
 <br>
 
-+++
-by Tommy Tallhain (May 2014)
+
 ````
