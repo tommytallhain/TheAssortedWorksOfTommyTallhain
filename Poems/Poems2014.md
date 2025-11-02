@@ -2,25 +2,6 @@
 
 
 
-## I Skipped a Stone (The Feelings Pool)
-
-````{card}
-I skipped a stone and watched it go skimming off the glass like lake.
-<br>
-And in my hand I held yours tight the love caught in its wake.
-<br>
-It danced on waves and ripples made while running from the shore.
-<br>
-Your eyes on mine but still the sign of things and feelings more.
-<br>
-But soon it fell through life and tells its echos off the sound.
-<br>
-And dropped below to dpths unknown a weight that sunk to ground.
-<br>
-
-+++
-by Tommy Tallhain (May 2014)
-````
 
 
 
@@ -34,46 +15,8 @@ by Tommy Tallhain (May 2014)
 
 
 
-## A Bird's Eyes Views
-
-````{card} 
-Near the white-weathered stons. In the soft misty air
-<br>
-Sat a bird in a tree and he perched with great care
-<br>
-With his eyes sightly up and his neck slightly bent
-<br>
-He gazed at the scene in its lucid extent
-<br>
-In the mist and the cold of the frigid snowfall
-<br>
-He sat on his branch and he looked at it all
-<br>
-The footprints of others which lay in the frost
-<br>
-Marked no only life but the love that was lost
-<br>
-Passers-by didn't notice him watching them leave
-<br>
-Their flowers and memories, their tokens of grief
-<br>
-But watch them he did, and still did he stand
-<br>
-Watching visitors come to be laid in the land
-<br>
-And the unhappy thoughtwhich occured from his cover
-<br>
-Was that he could guage much, in the eyes of another
-<br>
-So up flew the raven, up, up, from the rift
-<br>
-Of the sorrow and sadness, of the night graveyard shift
-<br>
 
 
-+++
-by Tommy Tallhain (August 2014)
-````
 
 
 ## A Seen
